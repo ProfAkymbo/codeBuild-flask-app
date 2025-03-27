@@ -4,8 +4,10 @@
 Step 1: Log in to AWS Management Console
 Go to the AWS Management Console.
 Navigate to CodeBuild in the AWS console.
+
 Step 2: Create a New CodeBuild Project
 In the AWS CodeBuild dashboard, click Create project.
+
 Step 3: Configure the Project
 Project Name: Enter a name for your project, like FlaskAppBuild.
 Source Provider: Choose GitHub and authenticate your GitHub account if you haven’t already.
