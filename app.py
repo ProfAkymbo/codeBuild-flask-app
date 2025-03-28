@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Root endpoint
 @app.route('/')
 def home():
-    return "Welcome to my Flask API!"
+    return "Welcome to the Flask API!"
 
 # Endpoint to get current server time
 @app.route('/time', methods=['GET'])
